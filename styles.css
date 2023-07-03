@@ -57,6 +57,11 @@ nav a{
     border-top: 5px solid #0070BB;
     background-color: #EFF2FB
 }
+
+.menu-exp:hover, .parcours{
+    border-top: 5px solid #0070BB;
+    background-color: #EFF2FB
+
 .menu-hob:hover, .competences{
     border-top: 5px solid #0070BB;
     background-color: #EFF2FB;
